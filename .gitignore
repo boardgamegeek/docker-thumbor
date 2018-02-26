@@ -5,3 +5,4 @@ docker-compose-aws-s3-storage-test.yml
 docker-compose-aws-s3-loader-test.yml
 test.yml
 wheelhouse
+.idea/
