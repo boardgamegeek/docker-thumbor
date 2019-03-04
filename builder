@@ -1,7 +1,7 @@
 #!/bin/bash
 if [ -z "$THUMBOR_VERSION" ]
 then
-  THUMBOR_VERSION="6.4.1"
+  THUMBOR_VERSION="6.7.0"
 fi
 
 echo "THUMBOR VERSION: $THUMBOR_VERSION"
